@@ -33,10 +33,10 @@
             //                         | ALT | LWR | SPC | RSE  | ALT |
 
             bindings = <
-&kp TAB    &ht N1 Q  &kp W  &kp E     &kp R  &kp T             &kp Y  &kp U  &kp I      &kp O    &kp P     &kp BSPC
-&kp LCTRL  &kp A     &kp S  &kp D     &kp F  &kp G             &kp H  &kp J  &kp K      &kp L    &kp SEMI  &kp SQT
-&kp LSHFT  &kp Z     &kp X  &kp C     &kp V  &kp B             &kp N  &kp M  &kp COMMA  &kp DOT  &kp FSLH  &mt RSHFT RET
-                            &kp LALT  &mo 1         &kp SPACE         &mo 2  &kp RGUI
+&kp TAB          &ht N1 Q       &ht N2 W    &ht N3 F        &ht N4 P    &ht N5 G             &ht N6 J  &ht N8 L  &ht N9 U   &ht N9 Y  &ht N0 SEMICOLON  &kp BSPC
+&ht LG(TAB) TAB  &ht AT_SIGN A  &ht HASH R  &ht QUESTION S  &ht EXCL T  &kp G                &kp H     &kp J     &kp K      &kp L     &kp SEMI          &kp SQT
+&kp LSHFT        &kp Z          &kp X       &kp C           &kp V       &kp B                &kp N     &kp M     &kp COMMA  &kp DOT   &kp FSLH          &mt RSHFT RET
+                                            &kp LALT        &mo 1                 &kp SPACE            &mo 2     &kp RGUI
             >;
         };
 
