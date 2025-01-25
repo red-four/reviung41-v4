@@ -35,7 +35,7 @@
 
             bindings = <
 &ht LA(LC(DELETE)) ESCAPE  &ht N1 Q          &ht N2 W      &ht N3 F             &ht N4 P            &ht N5 D                          &ht N6 J         &ht N7 L         &ht N8 U                &ht N9 Y                 &ht N0 SEMICOLON  &kp BSPC
-&ht LG(TAB) TAB            &ht AT_SIGN A     &ht HASH R    &ht QUESTION S       &ht EXCL T          &ht KP_MINUS G                    &ht KP_PLUS H    &ht KP_EQUAL N   &ht LEFT_PARENTHESIS E  &ht RIGHT_PARENTHESIS I  &ht PERCENT O     &kp SQT
+&ht LG(TAB) TAB            &ht AT_SIGN A     &ht HASH R    &ht QUESTION S       &ht EXCL T          &ht KP_MINUS G                    &ht KP_PLUS H    &ht EQUAL N      &ht LEFT_PARENTHESIS E  &ht RIGHT_PARENTHESIS I  &ht PERCENT O     &kp SQT
 &kp LEFT_GUI               &ht UNDERSCORE Z  &ht DOLLAR X  &ht DOUBLE_QUOTES C  &ht SINGLE_QUOTE V  &ht COLON B                       &ht SEMICOLON K  &ht SLASH M      &kp COMMA               &kp DOT                  &kp FSLH          &mo 3
                                                            &mo 2                &lt 1 SPACE                         &kp LEFT_CONTROL                   &kp RIGHT_SHIFT  &kp RIGHT_ALT
             >;
