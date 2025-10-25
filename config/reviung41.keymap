@@ -64,9 +64,9 @@
             //                       |     | ADJ | BSPC |    |     |
 
             bindings = <
-&trans  &kp F1  &kp F2  &kp F3  &kp F4            &kp F5                            &kp F6          &kp F7           &kp F8  &kp F9  &kp F10  &kp DEL
-&trans  &trans  &trans  &trans  &to 0             &to 4                             &kp PIPE        &kp GRAVE        &trans  &trans  &trans   &trans
-&trans  &trans  &trans  &trans  &kp LEFT_BRACKET  &kp RIGHT_BRACKET                 &kp LEFT_BRACE  &kp RIGHT_BRACE  &trans  &trans  &trans   &trans
+&trans  &kp F1  &kp F2  &kp F3  &kp F4            &kp F5                            &kp F6          &kp F7           &kp F8         &kp F9  &kp F10  &kp DEL
+&trans  &trans  &trans  &trans  &to 0             &to 4                             &kp PIPE        &kp GRAVE        &kp BACKSLASH  &trans  &trans   &trans
+&trans  &trans  &trans  &trans  &kp LEFT_BRACKET  &kp RIGHT_BRACKET                 &kp LEFT_BRACE  &kp RIGHT_BRACE  &trans         &trans  &trans   &trans
                         &trans  &mo 3                                &kp LS(ENTER)                  &trans           &trans
             >;
         };
